@@ -1,0 +1,91 @@
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.exe.config
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.exe
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.pdb
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.csprojResolveAssemblyReference.cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Form1.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Form2.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Form3.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Properties.Resources.resources
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.csproj.GenerateResource.Cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.csproj.CoreCompileInputs.cache
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.exe
+C:\Users\HakanBey\Documents\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.pdb
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.exe.config
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.exe
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.pdb
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Data.v18.2.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Office.v18.2.Core.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Utils.v18.2.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Images.v18.2.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Data.v18.2.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Utils.v18.2.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.csprojAssemblyReference.cache
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Form1.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Form2.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Form3.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol_Spam_Bot.Properties.Resources.resources
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.csproj.GenerateResource.cache
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.csproj.CoreCompileInputs.cache
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.csproj.CopyComplete
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.exe
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.pdb
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.exe.manifest
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\bin\Debug\Lol Spam Bot.application
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.exe.manifest
+D:\Users\HAKANBEY\Desktop\Masaüstü\mavi flash yedek\Visual Studio 2013\Projects\Lol Spam Bot\Lol Spam Bot\obj\Debug\Lol Spam Bot.application
